@@ -5,6 +5,7 @@ To get the colour info, click on the pink "Select an Image" button, select an im
 This interface supports png and jpg(jpeg) image files.<br/>
 
 Screenshots:<br/>
+
 ![root window](root_window.png)
 ![screenshot1](screenshot1.png)
 ![screenshot2](screenshot2.png)
